@@ -59,5 +59,6 @@ To execute the bot run the following in your terminal
 python3 easyapplybot.py
 ```
 
-
+## Changes in the forked repo compared to original
+Will use rye for all the python packaging shennaigans, will probably add some llm pipeline stuff later.
 
